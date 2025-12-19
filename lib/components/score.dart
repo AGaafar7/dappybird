@@ -2,7 +2,6 @@ import 'dart:async';
 
 import 'package:dappybird/game.dart';
 import 'package:flame/components.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class ScoreText extends TextComponent with HasGameRef<FlappyBirdGame> {
